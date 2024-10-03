@@ -1,3 +1,4 @@
+# Understanding CORS: A Comprehensive Guide
 ## Introduction
 
 **CORS (Cross-Origin Resource Sharing)** is a security feature implemented by web browsers to control how resources on a web page can be requested from another domain outside the domain from which the resource originated. It is crucial for web development as it allows for secure communication between different domains, enabling the integration of web services and APIs.
