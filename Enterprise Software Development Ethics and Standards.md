@@ -1,5 +1,5 @@
 # Enterprise Software Development Ethics and Standards
-![Enterprise Software Development Ethics and Standards.](images/Enterprise%20Software%20Development%20Ethics%20and%20Standards.png)
+![Enterprise Software Development Ethics and Standards.](images/Enterprise-Software-Development-Ethics-and-Standards.png)
 - **Developer-Centric Approach** : Run tech teams with a focus on developers rather than business or management.
 
 - **Technical Decisions** : Should be made by technical people to avoid feature creep, bloat, and technical debt.
